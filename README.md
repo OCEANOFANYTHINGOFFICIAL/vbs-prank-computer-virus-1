@@ -8,7 +8,7 @@ This Is not a Harmfull virus. This is Actually Made For Prank
 
 # Copy Shell Code
 ```shell
-
+https://github.com/OCEANOFANYTHINGOFFICIAL/vbs-prank-computer-virus-1.git
 ```
 
 or
