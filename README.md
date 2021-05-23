@@ -3,7 +3,13 @@ vbs-prank-computer-virus-1
 <br>
 This Is not a Harmfull virus. This is Actually Made For Prank
 
-[Download Zip](https://github.com/OCEANOFANYTHINGOFFICIAL/vbs-prank-computer-virus-1)
+[Download Zip](https://github.com/OCEANOFANYTHINGOFFICIAL/vbs-prank-computer-virus-1/archive/refs/heads/main.zip)
+
+
+# Copy Shell Code
+```shell
+
+```
 
 or
 
