@@ -1,3 +1,5 @@
+
+    <link rel="shortcut icon" href="https://oceanofanythingg.blogspot.com/favicon.ico" type="image/x-icon">
 # vbs-prank-computer-virus-1
 vbs-prank-computer-virus-1
 <br>
